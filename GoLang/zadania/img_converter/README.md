@@ -1,6 +1,6 @@
 # Image Format Converter
 
-This procject is a simgple web appliacation built with GO. It allows for user to upload 
+This procject is a simgple web appliacation built with GO. It allows user to upload 
 an image file (in JPEG, PNG or GIF format), convert it to earlier mentioned formats, display it and allows for user to download it (does not work yet).
 
 
